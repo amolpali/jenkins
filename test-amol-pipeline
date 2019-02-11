@@ -1,9 +1,0 @@
-stage('test') {
-   echo 'How are you Amol?'
-}
-stage('deploy') {
-   echo 'I am good, Peter'
-}
-stage('deploy2') {
-   echo 'Cloudy weather'
-}
