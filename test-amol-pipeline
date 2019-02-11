@@ -1,6 +1,6 @@
 stage('test') {
-   echo 'How are you?'
+   echo 'How are you Amol?'
 }
 stage('deploy') {
-   echo 'I am good'
+   echo 'I am good, Peter'
 }
