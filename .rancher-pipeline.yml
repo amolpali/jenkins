@@ -1,0 +1,10 @@
+stages:
+- name: compile
+  steps:
+  - runScriptConfig:
+      image: java:8
+      shellScript: |-
+        java version
+        java version
+timeout: 60
+notification: {}
